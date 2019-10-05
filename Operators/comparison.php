@@ -1,4 +1,4 @@
-
+<?php
 // logical operator
 echo '<br>';
 $food = 'salmon';
