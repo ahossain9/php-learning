@@ -9,7 +9,7 @@ if('salmon' == $food || 'tuna' == $food){
 }
 
 
-// findout leaf year
+// findout leaf year by comparison
 echo '<br>';
 $year = 2000;
 if( $year % 4 == 0 && ( $year %100 !=0 || $year % 400 == 0 )){
